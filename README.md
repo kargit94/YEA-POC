@@ -1,2 +1,2 @@
 # YEA-POC
-E-Procurement
+Yokogawa Engineering Asia Limited Point of Contact
